@@ -4,7 +4,7 @@
 <h4 align="center">🎯 LLMs, Agentic AI and Reinforcement Learning</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;AI+%26+Deep+Learning+Enthusiast;Cloud+Solutions+Developer;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B8860B&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;AI+%26+Deep+Learning+Enthusiast;Cloud+Solutions+Developer;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 ---
@@ -125,7 +125,7 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=daveshenal&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=daveshenal&theme=cream&hide_border=true&background=FFF8DC&stroke=CD853F&ring=DAA520&fire=B8860B&currStreakLabel=8B4513&sideLabels=A0522D&currStreakNum=8B4513&sideNums=A0522D" 
     alt="Dave's GitHub Streak" 
     width="80%" 
   />
@@ -136,14 +136,14 @@
     <tr>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=daveshenal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+          src="https://github-readme-stats.vercel.app/api?username=daveshenal&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=FFF8DC&title_color=B8860B&text_color=8B4513&icon_color=DAA520" 
           alt="Dave's GitHub Stats" 
           height="140"
         />
       </td>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveshenal&layout=compact&theme=tokyonight&hide_border=true" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveshenal&layout=compact&theme=default&hide_border=true&bg_color=FFF8DC&title_color=B8860B&text_color=8B4513" 
           alt="Most Used Languages" 
         />
       </td>
@@ -157,19 +157,18 @@ I'm always excited to collaborate on innovative projects, discuss the latest in 
 
 <p align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D2B48C?style=for-the-badge&logo=gmail&logoColor=8B4513&labelColor=F5DEB3" alt="Email"/>
   </a>
     <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-D2B48C?style=for-the-badge&logo=linkedin&logoColor=8B4513&labelColor=F5DEB3" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-D2B48C?style=for-the-badge&logo=instagram&logoColor=8B4513&labelColor=F5DEB3" alt="Instagram"/>
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=daveshenal&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=daveshenal&color=daa520&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
-
