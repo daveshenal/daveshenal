@@ -115,11 +115,11 @@
 
 ## 🎯 Current Focus Areas
 
-- 🧠 **Large Language Models (LLMs)**: Fine-tuning, prompt engineering, and RAG systems  
-- 🤖 **Robotic Navigation**: Path planning, obstacle avoidance, and SLAM with sensor fusion  
+- 🧠 **Large Language Models (LLMs)**: Fine-tuning, prompt engineering, and RAG systems
 - ☁️ **MLOps**: Model deployment, monitoring, and CI/CD pipelines for ML systems
-- 🎮 **Reinforcement Learning**: Deep Q-learning, policy gradients, and multi-agent systems  
-- 👁️ **Computer Vision**: Object detection, image segmentation, and neural style transfer  
+- 🎮 **Reinforcement Learning**: Deep Q-learning, policy gradients, and multi-agent systems
+- 🤖 **Robotic Navigation**: Path planning, obstacle avoidance, and SLAM with sensor fusion  
+- 👁️ **Computer Vision**: Object detection, image segmentation, and neural style transfer
 
 ## 📈 GitHub Stats
 
@@ -131,7 +131,6 @@
   />
 </div>
 
-<!-- GitHub Stats & Top Languages (Side by Side) -->
 <div align="center">
   <table>
     <tr>
