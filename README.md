@@ -1,4 +1,4 @@
-# Hi there, I'm Dave Perera! 👋
+# Hi there, I'm Dave Perera 👋
 
 <h3 align="center">Associate ML Engineer | Final Year CS Undergrad | AI, Deep Learning & Cloud Solutions Enthusiast</h3>
 <h4 align="center">🎯 LLMs, Agentic AI and Reinforcement Learning</h4>
@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,tensorflow,pytorch,sklearn,opencv,fastapi,flask,django,r,nodejs,docker,azure,terraform,postgresql,mongodb,mysql,redis,firebase,selenium,git,anaconda,linux,ubuntu,ros,raspberrypi,postman,express,html,css,androidstudio,flutter,dart,blender,figma" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,tensorflow,pytorch,sklearn,opencv,fastapi,flask,django,r,nodejs,docker,azure,terraform,postgresql,mongodb,mysql,redis,firebase,selenium,git,githubactions,anaconda,linux,ubuntu,ros,raspberrypi,postman,express,html,css,androidstudio,flutter,dart,blender,figma" />
 </p>
 
 
@@ -68,13 +68,13 @@
 I'm always excited to collaborate on innovative projects, discuss the latest in AI/ML, or share knowledge with the community. Feel free to reach out!
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:daveshenal281@gamil.com">
     <img src="https://img.shields.io/badge/Email-D2B48C?style=for-the-badge&logo=gmail&logoColor=8B4513&labelColor=F5DEB3" alt="Email"/>
   </a>
-    <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <a href="https://linkedin.com/in/davesperera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-D2B48C?style=for-the-badge&logo=linkedin&logoColor=8B4513&labelColor=F5DEB3" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/yourhandle" target="_blank">
+  <a href="https://www.instagram.com/daveshenal" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-D2B48C?style=for-the-badge&logo=instagram&logoColor=8B4513&labelColor=F5DEB3" alt="Instagram"/>
   </a>
 </p>
