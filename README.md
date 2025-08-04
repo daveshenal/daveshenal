@@ -23,7 +23,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,tensorflow,pytorch,sklearn,opencv,fastapi,flask,django,r,nodejs,docker,azure,terraform,postgresql,mongodb,mysql,redis,firebase,selenium,git,githubactions,anaconda,linux,ubuntu,ros,raspberrypi,postman,express,html,css,androidstudio,flutter,dart,blender,figma" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,tensorflow,pytorch,sklearn,opencv,fastapi,flask,django,r,nodejs,docker,azure,terraform,postgresql,mongodb,mysql,redis,firebase,selenium,git,githubactions,anaconda,linux,ubuntu,ros,raspberrypi,postman,react,tailwind,ts,express,html,css,androidstudio,flutter,dart,blender,figma" />
 </p>
 
 ## 🎯 Current Focus Areas
